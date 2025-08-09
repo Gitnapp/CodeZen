@@ -1,10 +1,11 @@
 {
   "name": "code-zen",
+  "publisher": "code-zen",
   "displayName": "code zen",
   "description": "A calmy Visual Studio Code theme.",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
