@@ -1,0 +1,21 @@
+{
+  "name": "code-zen",
+  "displayName": "code zen",
+  "description": "A calmy Visual Studio Code theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "code zen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code zen-color-theme.json"
+      }
+    ]
+  }
+}
