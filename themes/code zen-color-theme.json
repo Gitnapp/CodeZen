@@ -9,13 +9,11 @@
 		"checkbox.background": "#080909",
 		"checkbox.foreground": "#dddddd",
 		"checkbox.border": "#333333",
-
 		// Dropdown control
 		"dropdown.background": "#080909",
 		"dropdown.listBackground": "#080909",
 		"dropdown.border": "#333333",
 		"dropdown.foreground": "#dddddd",
-
 		// Input control
 		"input.background": "#080909",
 		"input.border": "#333333",
@@ -24,28 +22,24 @@
 		"inputOption.activeBackground": "#222222",
 		"inputOption.activeBorder": "#111111",
 		"inputValidation.errorBackground": "#080909",
-		"inputValidation.errorForeground": "#dd2222",
+		"inputValidation.errorForeground": "#ff5370",
 		"inputValidation.errorBorder": "#333333",
 		"inputValidation.infoBackground": "#080909",
-		"inputValidation.infoForeground": "#22dd22",
+		"inputValidation.infoForeground": "#c3e88d",
 		"inputValidation.infoBorder": "#333333",
 		"inputValidation.warningBackground": "#080909",
-		"inputValidation.warningForeground": "#2222dd",
+		"inputValidation.warningForeground": "#82aaff",
 		"inputValidation.warningBorder": "#333333",
-
 		// Scrollbar control
 		"scrollbar.shadow": "#222222",
 		"scrollbarSlider.activeBackground": "#222222",
 		"scrollbarSlider.background": "#111111",
 		"scrollbarSlider.hoverBackground": "#222222",
-
 		// Badge
 		"badge.foreground": "#dddddd",
 		"badge.background": "#222222",
-
 		// Progress bar
 		"progressBar.background": "#222222",
-
 		// Lists and tree
 		"list.activeSelectionBackground": "#222222",
 		"list.activeSelectionForeground": "#dddddd",
@@ -58,14 +52,13 @@
 		"list.inactiveSelectionBackground": "#222222",
 		"list.inactiveSelectionForeground": "#dddddd",
 		"list.inactiveFocusBackground": "#111111",
-		"list.invalidItemForeground": "#dd2222",
-		"list.errorForeground": "#dd2222",
-		"list.warningForeground": "#80abe3",
+		"list.invalidItemForeground": "#ff5370",
+		"list.errorForeground": "#ff5370",
+		"list.warningForeground": "#82aaff",
 		"listFilterWidget.background": "#080909",
 		"listFilterWidget.outline": "#222222",
-		"listFilterWidget.noMatchesOutline": "#dd2222",
+		"listFilterWidget.noMatchesOutline": "#ff5370",
 		"tree.indentGuidesStroke": "#888888",
-
 		// Activity Bar
 		"activityBar.background": "#080909",
 		"activityBar.dropBorder": "#333333",
@@ -74,15 +67,12 @@
 		"activityBar.border": "#333333",
 		"activityBarBadge.background": "#080909",
 		"activityBarBadge.foreground": "#dddddd",
-
 		// Side Bar
 		"sideBar.background": "#080909",
 		"sideBar.foreground": "#dddddd",
 		"sideBar.border": "#333333",
-
 		// Minimap
 		"minimap.findMatchHighlight": "#666666",
-
 		// Editor Group & Tabs
 		"editorGroup.border": "#333333",
 		"editorGroup.dropBackground": "#222222",
@@ -112,27 +102,23 @@
 		"tab.unfocusedActiveModifiedBorder": "#ffffff",
 		"tab.unfocusedInactiveModifiedBorder": "#ffffff",
 		"editorPane.background": "#080909",
-
 		// Editor colors
 		"editor.background": "#080909",
 		"editor.foreground": "#dddddd",
 		"editorLineNumber.foreground": "#888888",
 		"editorLineNumber.activeForeground": "#ffffff",
 		"editorCursor.background": "#ffffff",
-		"editorCursor.foreground": "#80abe3",
-
+		"editorCursor.foreground": "#82aaff",
 		"editor.selectionBackground": "#222222",
 		"editor.selectionForeground": "#ffffff",
 		"editor.inactiveSelectionBackground": "#888888",
 		"editor.selectionHighlightBackground": "#666666",
 		"editor.selectionHighlightBorder": "#888888",
-
 		// Editor widget colors
 		"editorWidget.foreground": "#dddddd",
 		"editorWidget.background": "#080909",
 		"editorWidget.border": "#333333",
 		"editorWidget.resizeBorder": "#333333",
-
 		// Status Bar Colors
 		"statusBar.background": "#080909",
 		"statusBar.foreground": "#dddddd",
@@ -150,14 +136,12 @@
 		"statusBarItem.prominentHoverBackground": "#111111",
 		"statusBarItem.remoteBackground": "#080909",
 		"statusBarItem.remoteForeground": "#dddddd",
-
 		// Title Bar colors
 		"titleBar.activeBackground": "#080909",
 		"titleBar.activeForeground": "#dddddd",
 		"titleBar.inactiveBackground": "#080909",
 		"titleBar.inactiveForeground": "#888888",
 		"titleBar.border": "#000000",
-
 		// Menu Bar colors
 		"menubar.selectionForeground": "#ffffff",
 		"menubar.selectionBackground": "#222222",
