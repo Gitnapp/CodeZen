@@ -1,6 +1,7 @@
 {
 	"name": "code zen",
 	"colors": {
+		"focusBorder": "#888888",
 		// Button Control
 		"button.background": "#111111",
 		"button.foreground": "#dddddd",
