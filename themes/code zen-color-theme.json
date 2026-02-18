@@ -60,18 +60,18 @@
 		"list.invalidItemForeground": "#dd2222",
 		"list.errorForeground": "#dd2222",
 		"list.warningForeground": "#80abe3",
-		"listFilterWidget.Background": "#080909",
+		"listFilterWidget.background": "#080909",
 		"listFilterWidget.outline": "#222222",
 		"listFilterWidget.noMatchesOutline": "#dd2222",
 		"tree.indentGuidesStroke": "#888888",
 
 		// Activity Bar
 		"activityBar.background": "#080909",
-		"activityBar.dropBackground": "#222222",
+		"activityBar.dropBorder": "#333333",
 		"activityBar.foreground": "#dddddd",
 		"activityBar.inactiveForeground": "#888888",
-		"activityBar.border": "#000000",
-		"activityBarBadge.background": "#222222",
+		"activityBar.border": "#333333",
+		"activityBarBadge.background": "#080909",
 		"activityBarBadge.foreground": "#dddddd",
 
 		// Side Bar
@@ -110,7 +110,7 @@
 		"tab.inactiveModifiedBorder": "#ffffff",
 		"tab.unfocusedActiveModifiedBorder": "#ffffff",
 		"tab.unfocusedInactiveModifiedBorder": "#ffffff",
-		"editorPane.Background": "#080909",
+		"editorPane.background": "#080909",
 
 		// Editor colors
 		"editor.background": "#080909",
