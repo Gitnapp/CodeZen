@@ -3,7 +3,7 @@
   "publisher": "code-zen",
   "displayName": "code zen",
   "description": "A calmy Visual Studio Code theme.",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.0.0"
   },
