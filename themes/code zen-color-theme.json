@@ -32,9 +32,9 @@
 		"inputValidation.warningBorder": "#333333",
 		// Scrollbar control
 		"scrollbar.shadow": "#222222",
-		"scrollbarSlider.activeBackground": "#555555",
-		"scrollbarSlider.background": "#333333",
-		"scrollbarSlider.hoverBackground": "#444444",
+		"scrollbarSlider.activeBackground": "#777777",
+		"scrollbarSlider.background": "#555555",
+		"scrollbarSlider.hoverBackground": "#666666",
 		// Badge
 		"badge.foreground": "#dddddd",
 		"badge.background": "#222222",
@@ -73,6 +73,9 @@
 		"sideBar.border": "#333333",
 		// Minimap
 		"minimap.findMatchHighlight": "#666666",
+		"minimapSlider.background": "#333333",
+		"minimapSlider.hoverBackground": "#444444",
+		"minimapSlider.activeBackground": "#555555",
 		// Editor Group & Tabs
 		"editorGroup.border": "#333333",
 		"editorGroup.dropBackground": "#222222",
