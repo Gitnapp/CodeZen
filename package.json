@@ -3,9 +3,13 @@
   "publisher": "code-zen",
   "displayName": "code zen",
   "description": "A calmy Visual Studio Code theme.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/code-zen/code-zen.git"
   },
   "categories": [
     "Themes"
